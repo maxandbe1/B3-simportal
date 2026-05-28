@@ -1,0 +1,4 @@
+{
+  "identity": "./identity/module-bridge.js",
+  "patterns": "./patterns/module-bridge.js"
+}
