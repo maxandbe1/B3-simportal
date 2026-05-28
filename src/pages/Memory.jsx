@@ -7,6 +7,8 @@ export default function Memory() {
   return (
     <div style={{ marginTop: "20px" }}>
       <h2>🐝 Memory Module</h2>
+      <Memory />
+
 
       <input
         value={text}
