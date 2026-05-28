@@ -1,4 +1,5 @@
 {
   "identity": "./identity/module-bridge.js",
-  "patterns": "./patterns/module-bridge.js"
+  "patterns": "./patterns/module-bridge.js",
+  "memory": "./memory/module-bridge.js"
 }
